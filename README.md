@@ -32,5 +32,5 @@ Alongside the client work I write the software that runs the business: our clien
 <a href="https://seoengico.com"><img src="assets/cta.svg" width="100%" alt="Links that stay live. Search you can put a revenue number on. Book a search performance audit at seoengico.com."></a>
 
 <p align="center">
-<a href="https://seoengico.com">seoengico.com</a> &nbsp;·&nbsp; <a href="https://gafferly.com">gafferly.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/company/seo-engico">SEO Engico on LinkedIn</a>
+<a href="https://seoengico.com">seoengico.com</a> &nbsp;·&nbsp; <a href="https://gafferly.com">gafferly.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/jhontybarreto">LinkedIn</a>
 </p>
